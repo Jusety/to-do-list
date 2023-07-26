@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #cbaa4e;
+    color: whitesmoke;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
+
+li {
+    color: whitesmoke;
+}
+
+p {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.date {
+    margin-bottom: 200px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+button {
+    background-color: #adb51c;
+    border: none;
+    border-radius: 5px;
+    color: wheat;
+    padding: 3px;
+}
+
+input {
+    background-color: wheat;
+    border: none;
+    border-radius: 5px;
+    padding: 3px;
+}
